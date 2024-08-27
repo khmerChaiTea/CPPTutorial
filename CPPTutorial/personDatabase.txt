@@ -1,0 +1,5 @@
+Name: Daniel
+Age: 25
+Address: Somestreet 165 48946 Somecountry
+Height: 1.75
+Cat Name: Bob
