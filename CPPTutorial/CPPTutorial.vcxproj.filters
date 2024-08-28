@@ -48,7 +48,10 @@
     <ClCompile Include="Tutorial10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tutotial11.cpp">
+    <ClCompile Include="Tutorial11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
