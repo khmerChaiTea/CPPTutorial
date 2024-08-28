@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Tutorial10.cpp" />
     <ClCompile Include="Tutorial12.cpp" />
+    <ClCompile Include="Tutorial13.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
