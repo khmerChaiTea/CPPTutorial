@@ -135,6 +135,7 @@
     <ClCompile Include="Tutorial16.cpp" />
     <ClCompile Include="Tutorial17.cpp" />
     <ClCompile Include="Tutorial18.cpp" />
+    <ClCompile Include="Tutorial19.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
@@ -146,6 +147,9 @@
     <ClCompile Include="Tutorial8.cpp" />
     <ClCompile Include="Tutorial9.cpp" />
     <ClCompile Include="Tutorial11.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myMathFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
