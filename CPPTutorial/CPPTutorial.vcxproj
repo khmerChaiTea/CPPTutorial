@@ -141,6 +141,7 @@
     <ClCompile Include="Tutorial22.cpp" />
     <ClCompile Include="Tutorial23.cpp" />
     <ClCompile Include="Tutorial24.cpp" />
+    <ClCompile Include="Tutorial25.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
