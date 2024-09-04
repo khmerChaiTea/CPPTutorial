@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dice.cpp" />
     <ClCompile Include="Tutorial10.cpp" />
     <ClCompile Include="Tutorial12.cpp" />
     <ClCompile Include="Tutorial13.cpp" />
@@ -145,6 +146,7 @@
     <ClCompile Include="Tutorial26.cpp" />
     <ClCompile Include="Tutorial27.cpp" />
     <ClCompile Include="Tutorial28.cpp" />
+    <ClCompile Include="Tutorial29.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
@@ -158,6 +160,7 @@
     <ClCompile Include="Tutorial11.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dice.h" />
     <ClInclude Include="myMathFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
