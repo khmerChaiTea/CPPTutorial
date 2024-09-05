@@ -152,6 +152,7 @@
     <ClCompile Include="Tutorial32.cpp" />
     <ClCompile Include="Tutorial33.cpp" />
     <ClCompile Include="Tutorial34.cpp" />
+    <ClCompile Include="Tutorial35.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
